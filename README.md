@@ -15,7 +15,7 @@ After installation, you can simply execute the compression with a single command
 
 ## 安装 Install
 ```
-npm i -g bvh-compree
+npm i -g bvh-compress
 ```
 
 ## 使用 Usage
